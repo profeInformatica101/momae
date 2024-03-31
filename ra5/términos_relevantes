@@ -1,0 +1,50 @@
+    Software: Programas y sistemas operativos utilizados por los equipos informáticos.
+    Instalación Estándar: Proceso de instalar software desde cero, siguiendo los pasos predeterminados.
+    Preinstalación: Configuración de software instalada previamente en un sistema o imagen.
+    Secuencia de Arranque: Orden establecido en la BIOS/UEFI que determina de qué dispositivo arrancará el sistema.
+    Soporte de Memoria: Dispositivos de almacenamiento como discos duros, USBs o tarjetas SD.
+    BIOS (Basic Input/Output System): Sistema básico de entrada/salida que inicia el hardware durante el arranque.
+    UEFI (Unified Extensible Firmware Interface): Interfaz moderna de firmware que mejora el arranque de BIOS.
+    Arranque: Proceso de iniciar un equipo informático y cargar el sistema operativo.
+    Imagen de Sistema: Copia exacta de un disco o partición para restauración o despliegue.
+    Restauración de Imágenes: Proceso de volver a un estado anterior del sistema utilizando una imagen de sistema.
+    Disco Fijo: Término utilizado para referirse al disco duro principal de un sistema.
+    Creación de Imágenes: Proceso de generar una copia exacta de un sistema o partición.
+    Partición: División lógica en un disco duro para organizar datos o sistemas operativos.
+    Clonación de Disco: Copiar el contenido de un disco a otro de manera exacta.
+    Virtualización: Creación de una versión virtual de un recurso, como un sistema operativo.
+    Máquina Virtual: Emulación de un sistema informático que opera en un entorno software.
+    VirtualBox: Software de virtualización para ejecutar sistemas operativos como máquinas virtuales.
+    Sistema Operativo: Software que administra el hardware y proporciona servicios para aplicaciones.
+    Kernel: Núcleo central del sistema operativo que gestiona las operaciones de hardware.
+    Interfaz de Usuario: Componente que permite la interacción entre el usuario y el sistema o aplicación.
+    Aplicación: Programa diseñado para realizar un grupo de tareas coordinadas.
+    Driver: Software que permite al sistema operativo interactuar con el hardware.
+    Live CD/USB: Sistema operativo almacenado en un CD/USB que puede ejecutarse sin instalación en el disco duro.
+    Bootloader: Programa que gestiona el proceso de arranque del sistema operativo.
+    Firmware: Software de bajo nivel que controla el hardware específico de un dispositivo.
+    Backup: Copia de seguridad de datos o sistemas para su recuperación en caso de pérdida.
+    RAID (Redundant Array of Independent Disks): Sistema que usa múltiples discos duros para mejorar el rendimiento o la redundancia de datos.
+    FileSystem: Sistema de archivos que gestiona cómo se almacenan y recuperan los datos en un disco.
+    SSD (Solid State Drive): Tipo de almacenamiento de datos basado en memoria flash, más rápido que los discos duros tradicionales.
+    HDD (Hard Disk Drive): Dispositivo de almacenamiento de datos que utiliza platos magnéticos.
+    ISO (Imagen de disco): Archivo que contiene una copia exacta de todo el contenido de un medio de almacenamiento.
+    Dual Boot: Configuración que permite instalar y arrancar dos sistemas operativos diferentes en el mismo hardware.
+    Script: Archivo de comandos ejecutado por un programa específico para automatizar tareas.
+    GUI (Graphical User Interface): Interfaz gráfica que facilita la interacción con el sistema mediante elementos visuales.
+    CLI (Command Line Interface): Interfaz basada en texto para interactuar con el sistema operativo mediante comandos.
+    Partition Table: Estructura de datos en un disco que contiene la disposición de las particiones.
+    GPT (GUID Partition Table): Estándar moderno para la disposición de las tablas de particiones en un disco.
+    MBR (Master Boot Record): Método tradicional de gestión de particiones y contenedor del código de arranque.
+    Virtual Disk: Archivo que simula un disco duro físico en entornos de virtualización.
+    Snapshot: Estado guardado de una máquina virtual que puede ser restaurado.
+    Cloud Computing: Entrega de servicios informáticos a través de Internet, incluyendo almacenamiento, procesamiento y aplicaciones.
+    Containerización: Tecnología de virtualización a nivel de sistema operativo para ejecutar aplicaciones aisladas.
+    Docker: Plataforma de software que utiliza contenedores para facilitar la creación, despliegue y ejecución de aplicaciones.
+    Hypervisor: Software que crea y ejecuta máquinas virtuales.
+    Allocated Space: Espacio de almacenamiento designado para una partición o volumen en un disco.
+    Unmount: Acción de desconectar un dispositivo de almacenamiento del sistema de archivos para que no sea accesible.
+    Mount: Acción de hacer accesible un dispositivo de almacenamiento al sistema de archivos.
+    Volume: Unidad de almacenamiento accesible por el sistema operativo, creada dentro de una partición o disco.
+    Swap Space: Espacio en disco utilizado para extender la memoria RAM virtualmente.
+    File Permissions: Derechos asignados a usuarios y grupos sobre el acceso y modificación de archivos y directorios.
