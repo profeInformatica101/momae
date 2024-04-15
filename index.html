@@ -3,87 +3,16 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Actividad: Creación de un sistema dual boot</title>
+<title>Actividades RA5</title>
 </head>
 <body>
-<h1>Actividad: Creación de un sistema dual boot con Windows 10 y Linux</h1>
-
-<h2>Objetivo:</h2>
-<p>Crear un sistema dual boot con Windows 10 y Linux en una computadora, utilizando herramientas de particionado y copias de seguridad.</p>
-
-<h2>Entrega:</h2>
-<p>Un documento que incluya los pasos seguidos para crear el sistema dual boot, junto con capturas de pantalla de cada paso importante.</p>
-
-<h2>Pasos a seguir:</h2>
-
+   <h1>Actividades RA5 SMR Montaje y Mantenimiento de Equpipos</h1>
 <ol>
-<li><strong>Preparación:</strong>
-   <ul>
-       <li>Descargar Ventoy y las imágenes ISO de Windows 10 y una distribución de Linux (como Mint, Ubuntu, Linux Lite o Puppy Linux), así como la herramienta de Rescuezilla para usar GParted.</li>
-       <li>Preparar una unidad USB grande para crear una unidad booteable utilizando Ventoy.</li>
-   </ul>
-</li>
-
-<li><strong>Creación de la unidad USB booteable:</strong>
-   <ul>
-       <li>Instalar Ventoy en la unidad USB y copiar las imágenes ISO descargadas a la unidad.</li>
-   </ul>
-</li>
-
-<li><strong>Configuración del disco duro:</strong>
-   <ul>
-       <li>Arrancar desde la unidad USB booteable y seleccionar GParted desde el menú de Ventoy.</li>
-       <li>Crear una tabla de particiones GPT en el disco duro.</li>
-       <li>Redimensionar las particiones existentes para crear una partición de 50 GB para Windows y una partición de 30 GB para Linux, además de una partición de 2 GB para la memoria de intercambio (swap) de Linux.</li>
-   </ul>
-</li>
-
-<li><strong>Instalación de Windows 10:</strong>
-   <ul>
-       <li>Reiniciar la computadora y arrancar desde la unidad USB booteable de Windows 10.</li>
-       <li>Instalar Windows 10 en la partición NTFS creada de 50 GB, siguiendo las instrucciones en pantalla.</li>
-   </ul>
-</li>
-
-<li><strong>Instalación de Linux:</strong>
-   <ul>
-       <li>Reiniciar la computadora y arrancar desde la unidad USB booteable de la distribución de Linux.</li>
-       <li>Instalar Linux en la partición ext4 creada de 30 GB, asignando 2 GB para la partición de intercambio (swap) durante el proceso de particionado.</li>
-       <li>Configurar particiones adicionales según sea necesario, como /home, /boot o cualquier otra partición específica de Linux.</li>
-   </ul>
-</li>
-
-<li><strong>Configuración del gestor de arranque:</strong>
-   <ul>
-       <li>Configurar GRUB o el gestor de arranque de tu distribución de Linux para detectar automáticamente la instalación de Windows y permitirte seleccionar entre ambos sistemas operativos al arrancar.</li>
-   </ul>
-</li>
-
-<li><strong>Configuración de UEFI y Secure Boot:</strong>
-   <ul>
-       <li>Si tu ordenador utiliza UEFI en lugar del tradicional BIOS, ajusta la configuración del firmware para deshabilitar Secure Boot y configurar el modo de arranque adecuado para que tanto Windows como Linux se instalen y arranquen correctamente.</li>
-   </ul>
-</li>
-
-<li><strong>Consideraciones de compatibilidad de hardware:</strong>
-   <ul>
-       <li>Verifica la compatibilidad de hardware de tu ordenador con las distribuciones de Windows y Linux que planeas instalar, asegurándote de que los controladores necesarios estén disponibles y de que no haya problemas conocidos con tu hardware específico.</li>
-   </ul>
-</li>
-
-<li><strong>Configuración de red y otros ajustes de sistema:</strong>
-   <ul>
-       <li>Después de la instalación, configura la red, ajusta la configuración de energía, instala controladores adicionales y realiza otros ajustes según tus preferencias y necesidades específicas.</li>
-   </ul>
-</li>
-
-<li><strong>Entrega:</strong>
-   <ul>
-       <li>Crea un documento que detalle los pasos seguidos para crear el sistema dual boot.</li>
-       <li>Incluye capturas de pantalla de cada paso importante, como la creación de la tabla de particiones GPT, el particionado del disco, la instalación de Windows 10 y Linux, la configuración del gestor de arranque y cualquier ajuste adicional realizado.</li>
-   </ul>
-</li>
+    <li><a href="https://profeinformatica101.github.io/momae/ra5/actividad/act1.html">Actividad 1</a></li>
+   <li><a href="https://profeinformatica101.github.io/momae/ra5/actividad/act2.html">Actividad 2</a></li>
+   
 </ol>
-
+<br>
+     <a href="https://linuxsimply.com/wp-content/uploads/2023/05/Bash-scripting-Cheat-Sheet-by-linuxsimply.pdf">Chuleta comandos Linux</a>
 </body>
 </html>
